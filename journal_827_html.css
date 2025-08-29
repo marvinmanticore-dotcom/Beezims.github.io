@@ -8,9 +8,11 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_2823f0b8_padding { margin: 10px; display: block;  }
 .textstyle2 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 .textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-.textstyle4 { text-align:right; }
+.textstyle4 { text-align:center; }
+#img_20fbc2ca { vertical-align: bottom; position:relative; display: inline-block; width:35%; background:none; height:auto;  }
+#img_76b73786 { vertical-align: bottom; position:relative; display: inline-block; width:32%; background:none; height:auto;  }
+.textstyle5 { text-align:right; }
 #button_238231e9 { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:150px; height:40px; background-color:#AA8334; border: 0px solid #404040;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
-.textstyle5 { text-align:center; }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
